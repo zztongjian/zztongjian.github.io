@@ -20,7 +20,7 @@ text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", 
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : 资治通鉴（zizhitongjian.com）<br>专注青少年个人成长领域（咨询可加微信：luzhan34567）
+title   : 资治通鉴（官方网址同拼音：zizhitongjian.com）<br>专注青少年个人成长领域（咨询可加微信：luzhan34567）
 
 description: > # this means to ignore newlines until "Language & timezone"
    Your Site Description
